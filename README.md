@@ -1,3 +1,3 @@
 # CDN
 
-Load resources used by SYZOJ with jsDelivr and Github.
+Load resources used by WI-KI with jsDelivr and Github.
